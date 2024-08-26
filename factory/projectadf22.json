@@ -1,0 +1,9 @@
+{
+	"name": "projectadf22",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ea42556-0898-4853-ac54-7a9bc74b9cf6",
+		"tenantId": "42ea3d44-e2af-475e-8222-65551624c9e7"
+	}
+}
